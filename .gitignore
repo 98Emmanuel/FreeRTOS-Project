@@ -1,0 +1,21 @@
+# ===== Build folders =====
+Debug/
+Release/
+build/
+
+# ===== Compiled output =====
+*.o
+*.elf
+*.map
+*.hex
+*.bin
+
+# ===== IDE / Eclipse / CubeIDE =====
+.settings/
+.metadata/
+.project
+.cproject
+
+# ===== OS junk =====
+.DS_Store
+Thumbs.db
